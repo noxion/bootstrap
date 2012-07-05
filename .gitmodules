@@ -1,0 +1,3 @@
+[submodule "custom-meta"]
+	path = custom-meta
+	url = git://github.com/jaredatch/Custom-Metaboxes-and-Fields-for-WordPress.git
