@@ -1,10 +1,10 @@
 # [Roots Theme](http://rootstheme.com/)
 
-Roots is a starting WordPress theme made for developers that’s based on [HTML5 Boilerplate](http://html5boilerplate.com/) and Bootstrap from Twitter.
+Noxion Bootstrap is a starting WordPress based on [Roots Theme](http://rootstheme.com/).
 
 ## Quick start
 
-* Clone the git repo - `git clone git://github.com/retlehs/roots.git` - or [download it](https://github.com/retlehs/roots/zipball/master)
+* Clone the git repo - `git clone git://github.com/noxion/bootstrap.git` - or [download it](https://github.com/noxion/bootstrap/zipball/master)
 * Read [Theme Activation](https://github.com/retlehs/roots/wiki/Theme-activation) to understand everything that happens once you activate Roots
 
 ## Features
