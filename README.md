@@ -1,5 +1,3 @@
-# [Roots Theme](http://rootstheme.com/)
-
 Noxion Bootstrap is a starting WordPress based on [Roots Theme](http://rootstheme.com/).
 
 ## Quick start
