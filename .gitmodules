@@ -1,6 +1,6 @@
-[submodule "custom-meta"]
-	path = custom-meta
-	url = git://github.com/jaredatch/Custom-Metaboxes-and-Fields-for-WordPress.git
 [submodule "inc/custom-content-and-taxonomies"]
 	path = inc/custom-content-and-taxonomies
 	url = git://github.com/jkudish/sld-custom-content-and-taxonomies.git
+[submodule "inc/metabox"]
+	path = inc/metabox
+	url = git://github.com/jaredatch/Custom-Metaboxes-and-Fields-for-WordPress.git
